@@ -10,5 +10,5 @@ package prueba1;
  * @author Lore
  */
 public class Lorena {
-    
+   private int num=5;
 }
